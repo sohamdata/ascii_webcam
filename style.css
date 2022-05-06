@@ -1,0 +1,18 @@
+html {
+  margin: 0;
+  padding: 0;
+  background-color: #1b0505;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: 'Courier';
+  color: #EEEEEE;
+  font-size: 12pt;
+  line-height: 10pt;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+}
